@@ -1,0 +1,24 @@
+# PBS flags
+queue: normal
+walltime: 2:00:00
+ncpus: 480
+# mem: 64GB
+
+# mpirun:
+#    - --bind-to none
+
+jobname: benchmark
+
+# Model config
+model: cable
+exe: cable-mpi
+input:
+    - /scratch/p66/yxw599/runcable-access-esm/gswp/system3
+
+
+collate: False
+
+runspersub: 2
+
+restart: inputs
+

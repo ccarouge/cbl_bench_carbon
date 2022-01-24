@@ -1,0 +1,53 @@
+format: yamanifest
+version: 1.0
+---
+work/INPUT/cable_1902_c_novcmax.nml:
+  fullpath: inputs/cable_1902_c_novcmax.nml
+  hashes:
+    binhash: a879b3a279356a638c4a46a5b49e6568
+    md5: f736fe9d4a15e176276f02877e063af0
+work/INPUT/def_soil_params.txt:
+  fullpath: inputs/def_soil_params.txt
+  hashes:
+    binhash: 8d14bb4116c66bb7df4e28e7abe1f4df
+    md5: 77754f99dfeac5c389e81b9908ffea7c
+work/INPUT/def_veg_params_zr_clitt_albedo_fix.txt:
+  fullpath: inputs/def_veg_params_zr_clitt_albedo_fix.txt
+  hashes:
+    binhash: df5fa2dfa03ef5c0f3457b8d16a7b8b8
+    md5: 774b9f4b1c44a251cdb403d7596de280
+work/INPUT/gridinfo-access-esm.nc:
+  fullpath: inputs/gridinfo-access-esm.nc
+  hashes:
+    binhash: e97e61cb9d025001371d87715fa506ef
+    md5: 12e7eab52b0e758d6d8b683090166308
+work/INPUT/landsea-access-esm.nc:
+  fullpath: inputs/landsea-access-esm.nc
+  hashes:
+    binhash: be26263254dc07175dc8d0d446cd3fe8
+    md5: b62ae264048e0ec1c47104d58a6aebac
+work/INPUT/modis_phenology_csiro.txt:
+  fullpath: inputs/modis_phenology_csiro.txt
+  hashes:
+    binhash: 7078d86755a4f11431570f349b4c04e5
+    md5: 1ee9402ddc4f266b27db22f3549967bb
+work/INPUT/pftlookup_csiro_v16_17tiles_Ticket2.csv:
+  fullpath: inputs/pftlookup_csiro_v16_17tiles_Ticket2.csv
+  hashes:
+    binhash: 80c03873025149c3ae36dfc7d812571e
+    md5: cc2ac7bcd8155754cc7f88c478230c9d
+work/INPUT/poolcnp_in.nc:
+  fullpath: inputs/poolcnp_in.nc
+  hashes:
+    binhash: 8646689337ca454924c43589d34191ed
+    md5: 7f2b867ce8bda2f4ae2d627224b97e6a
+work/INPUT/poolcnp_out.nc:
+  fullpath: inputs/poolcnp_out.nc
+  hashes:
+    binhash: 146bd4f3834d4c23abb0c6ec209d8f39
+    md5: 1a9ce3a7e9c89b752be7157718c33be1
+work/INPUT/restart_in.nc:
+  fullpath: inputs/restart_in.nc
+  hashes:
+    binhash: e41b190d05c037e74486eb51451b97dd
+    md5: f64636dcdaa7c791e938eb452a7ce90d

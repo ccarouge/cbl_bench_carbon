@@ -1,0 +1,813 @@
+format: yamanifest
+version: 1.0
+---
+work/INPUT/cable_1902_c_novcmax.nml:
+  fullpath: inputs/cable_1902_c_novcmax.nml
+  hashes:
+    binhash: a879b3a279356a638c4a46a5b49e6568
+    md5: f736fe9d4a15e176276f02877e063af0
+work/INPUT/cruncep_access_LWdown_1901.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_LWdown_1901.nc
+  hashes:
+    binhash: b45c682b9d41376c5bf5824a6fe9a32f
+    md5: 8b8f2de49cbfbbdae68adb099d6170e2
+work/INPUT/cruncep_access_LWdown_1902.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_LWdown_1902.nc
+  hashes:
+    binhash: 45a8525e005578c0b1f7d4157361ef43
+    md5: 8ca58e707b14a00f308d639b5d298863
+work/INPUT/cruncep_access_LWdown_1903.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_LWdown_1903.nc
+  hashes:
+    binhash: 5ee4cac8bacc18915c0006ce7f66a4d5
+    md5: c501f862a92c5e431bb6e12705b85b56
+work/INPUT/cruncep_access_LWdown_1904.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_LWdown_1904.nc
+  hashes:
+    binhash: 117ba2320a8b31302e185c6a3e550fad
+    md5: 7a5cf2d080bdc2db88b8fc352ed2bbd5
+work/INPUT/cruncep_access_LWdown_1905.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_LWdown_1905.nc
+  hashes:
+    binhash: 512f84ac0f8db5401db7f557c1a67aed
+    md5: 08edda0a601619f12177aebca108023a
+work/INPUT/cruncep_access_LWdown_1906.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_LWdown_1906.nc
+  hashes:
+    binhash: 427e394f12f9911e5bed76c442507722
+    md5: 264757f209e107980a448f7d2631a828
+work/INPUT/cruncep_access_LWdown_1907.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_LWdown_1907.nc
+  hashes:
+    binhash: 1cd6ce04381128760151f51a85890eb9
+    md5: a83999fddfc13e6a31cb02f7fd3b3006
+work/INPUT/cruncep_access_LWdown_1908.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_LWdown_1908.nc
+  hashes:
+    binhash: 13df6896de61c41cea1dff8d7ab755fe
+    md5: 18768cfa2b65158f06919af703635780
+work/INPUT/cruncep_access_LWdown_1909.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_LWdown_1909.nc
+  hashes:
+    binhash: 43dfa97dd79fdb977ba54ed4aeb99be4
+    md5: 667a9895148108cb9a966b45adc298cc
+work/INPUT/cruncep_access_LWdown_1910.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_LWdown_1910.nc
+  hashes:
+    binhash: ca0084162fb8e261f7b820b89c80fe25
+    md5: 3f68d80deaf8a88f7310150c84721f21
+work/INPUT/cruncep_access_LWdown_1911.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_LWdown_1911.nc
+  hashes:
+    binhash: d398ebeee8040f452e070f4bf248c264
+    md5: ad5133aa37538ea146cb2b88057e2016
+work/INPUT/cruncep_access_LWdown_1912.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_LWdown_1912.nc
+  hashes:
+    binhash: 5af17d9019640e73c358b6a3f1c52e8f
+    md5: 2e5a72dc32dc5e4dcc967b767d1185a9
+work/INPUT/cruncep_access_LWdown_1913.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_LWdown_1913.nc
+  hashes:
+    binhash: 05d3b1e2ac7b5cb405ce441151f2d8e0
+    md5: 7588578d551b68845f9895f730a96a58
+work/INPUT/cruncep_access_LWdown_1914.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_LWdown_1914.nc
+  hashes:
+    binhash: 8e0a236d89b7cf67b71b1944bc522bf5
+    md5: de78acead907f938d6410b59efe6f771
+work/INPUT/cruncep_access_LWdown_1915.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_LWdown_1915.nc
+  hashes:
+    binhash: 9a4647a7c10db7a5da888be1861fe737
+    md5: b9ecb0735d93f83645883b379e024539
+work/INPUT/cruncep_access_LWdown_1916.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_LWdown_1916.nc
+  hashes:
+    binhash: f9a7486d3aff4928fe9b33ebbabdf866
+    md5: dcbd47aa7b9d7a27f0c617d9308f0f0f
+work/INPUT/cruncep_access_LWdown_1917.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_LWdown_1917.nc
+  hashes:
+    binhash: e8498e78a1f98acaef137864c00c7a9e
+    md5: 970f4718940e7fd8e87a273fade4f4e0
+work/INPUT/cruncep_access_LWdown_1918.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_LWdown_1918.nc
+  hashes:
+    binhash: 5730ff23fadd9479d3d8b0babc774684
+    md5: ab3b98ddde58a27c0db9b409027e0ef3
+work/INPUT/cruncep_access_LWdown_1919.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_LWdown_1919.nc
+  hashes:
+    binhash: b88e6be400d7b28a87e109686061e879
+    md5: 7d13ac98a246f07ea3e4e24d3f51eda2
+work/INPUT/cruncep_access_PSurf_1901.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_PSurf_1901.nc
+  hashes:
+    binhash: b3502400b4753d3a4aaa37faabfd93f8
+    md5: 3be78fb8060665d1b2c18f7647bad963
+work/INPUT/cruncep_access_PSurf_1902.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_PSurf_1902.nc
+  hashes:
+    binhash: 102ce53ad508bcb7bff6d8769de12488
+    md5: b1f254f2e7413b08b3cadd038338cefd
+work/INPUT/cruncep_access_PSurf_1903.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_PSurf_1903.nc
+  hashes:
+    binhash: 4e6b533d7127998ee1a3760037a053e2
+    md5: 8c900c7df39145733a1a0ca620357787
+work/INPUT/cruncep_access_PSurf_1904.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_PSurf_1904.nc
+  hashes:
+    binhash: 19cdce8c633b8496a6f824419e1ee97e
+    md5: 12c3c6e3fca9441fda938d963c1e51ed
+work/INPUT/cruncep_access_PSurf_1905.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_PSurf_1905.nc
+  hashes:
+    binhash: ac91ea4c7772d00b8ccf04c7e1e8c35f
+    md5: 724f5aba19943943c36fe89fe3518761
+work/INPUT/cruncep_access_PSurf_1906.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_PSurf_1906.nc
+  hashes:
+    binhash: 5a773cc44279e02e43cb9e834e579776
+    md5: 7cf912a7df3c82350737f29b289a8d7b
+work/INPUT/cruncep_access_PSurf_1907.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_PSurf_1907.nc
+  hashes:
+    binhash: bf472c9014c59992cc4414ad9eea1d53
+    md5: 723105fb3aa87caeff470453bbf10135
+work/INPUT/cruncep_access_PSurf_1908.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_PSurf_1908.nc
+  hashes:
+    binhash: eb82a548bde6a92a722d7514ee11787b
+    md5: ecc0f1202f080e6e66421de47e813188
+work/INPUT/cruncep_access_PSurf_1909.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_PSurf_1909.nc
+  hashes:
+    binhash: a300be2ce06fed78198196bf6b94f40a
+    md5: dddaaafc305dad01b04777939fd7e7ba
+work/INPUT/cruncep_access_PSurf_1910.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_PSurf_1910.nc
+  hashes:
+    binhash: c86fbc6d3a69e2a43b352eb7b4550c99
+    md5: 6477bb8a5b18bdcd182d5fdb3ef6c345
+work/INPUT/cruncep_access_PSurf_1911.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_PSurf_1911.nc
+  hashes:
+    binhash: 9dc68bd3c63ea7400d9163a4e69d8d8a
+    md5: e1217f5911e5ecab526b404f3cf7a6b4
+work/INPUT/cruncep_access_PSurf_1912.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_PSurf_1912.nc
+  hashes:
+    binhash: 6726dffc4cc7204df242fa91e01bb952
+    md5: fc4465b598e5f2453c9ae6235fc49920
+work/INPUT/cruncep_access_PSurf_1913.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_PSurf_1913.nc
+  hashes:
+    binhash: d51f8c92716479beb1c7563c726bd502
+    md5: b2382123f52c07698d049266607fd96a
+work/INPUT/cruncep_access_PSurf_1914.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_PSurf_1914.nc
+  hashes:
+    binhash: e937a1145a381c66c57884253ca92374
+    md5: 72b4bd2e003aa73d948df7b376766f06
+work/INPUT/cruncep_access_PSurf_1915.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_PSurf_1915.nc
+  hashes:
+    binhash: a4766fbc744613f875bb139b0119a6ff
+    md5: 914f8090b38cb35da61716149cb89097
+work/INPUT/cruncep_access_PSurf_1916.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_PSurf_1916.nc
+  hashes:
+    binhash: 0a1a219da1c8535d20eabf84e5999771
+    md5: 0a93ce6b20b3af8358078e805443eec5
+work/INPUT/cruncep_access_PSurf_1917.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_PSurf_1917.nc
+  hashes:
+    binhash: 4306d5b011e0bb089310bde568a2333c
+    md5: 9ffe25da2f1f07d4f8ec0fd75eb1d9e2
+work/INPUT/cruncep_access_PSurf_1918.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_PSurf_1918.nc
+  hashes:
+    binhash: 88cddbb2309bb25986d9d572a7600277
+    md5: a3efb251eb4f35914b8dc7d3c045fc7a
+work/INPUT/cruncep_access_PSurf_1919.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_PSurf_1919.nc
+  hashes:
+    binhash: fa88368c1dd56b010a7be765de0f9876
+    md5: 94fa3e5690c482161907b3cc3d262884
+work/INPUT/cruncep_access_Qair_1901.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Qair_1901.nc
+  hashes:
+    binhash: 9e7a1f7ad333406d2ea3ba0339036a97
+    md5: f0ef6b98c449061e136c813ac3fc7bae
+work/INPUT/cruncep_access_Qair_1902.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Qair_1902.nc
+  hashes:
+    binhash: 3269290c9d1347ec119f8eb8b8af3fdf
+    md5: d658244609ff7b1c9bd2b9ffa5aebaf3
+work/INPUT/cruncep_access_Qair_1903.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Qair_1903.nc
+  hashes:
+    binhash: a272983cf67775400598dfe06c5b9121
+    md5: f7247476f552deb67739946517b3b77c
+work/INPUT/cruncep_access_Qair_1904.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Qair_1904.nc
+  hashes:
+    binhash: 91d01cc930ac84466184ad91f8315fad
+    md5: 2ec2b32e75f0643356f7a136d0b96ceb
+work/INPUT/cruncep_access_Qair_1905.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Qair_1905.nc
+  hashes:
+    binhash: 816cfc8934d682dbdacf504926478bf5
+    md5: 7600d99a9cb3587a444efc3a2c5e6f6e
+work/INPUT/cruncep_access_Qair_1906.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Qair_1906.nc
+  hashes:
+    binhash: 31ea1a765236100f9a2ccdc5e406621c
+    md5: eaa6aeabca42d1b6450e0f0cbe761991
+work/INPUT/cruncep_access_Qair_1907.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Qair_1907.nc
+  hashes:
+    binhash: 09e3f9b1da5a7c09cc3399c881ce9f9e
+    md5: 15755a60ad4abd756631310ef72a77f8
+work/INPUT/cruncep_access_Qair_1908.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Qair_1908.nc
+  hashes:
+    binhash: bfa959eab51f67728ac2159a197328ad
+    md5: a94525896f6c515ff1c2c866fe99ae11
+work/INPUT/cruncep_access_Qair_1909.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Qair_1909.nc
+  hashes:
+    binhash: 7e641236c808d5f11789d5118c6133d1
+    md5: 65cb1210f00719776a0906ee8e4806d9
+work/INPUT/cruncep_access_Qair_1910.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Qair_1910.nc
+  hashes:
+    binhash: fda9bbb2e84aa782e57bc8df8b48e4a2
+    md5: bf2774f9c93f449963751def3478bd8b
+work/INPUT/cruncep_access_Qair_1911.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Qair_1911.nc
+  hashes:
+    binhash: a8c52e7b862b05ab2fe335fd2ebdc7e4
+    md5: 63ceb1493ee4b0ac29949e018f8b173e
+work/INPUT/cruncep_access_Qair_1912.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Qair_1912.nc
+  hashes:
+    binhash: 0a215df56768571c7761270e46dbac1b
+    md5: ce09e3070b4f76402b4a7027ad1ff187
+work/INPUT/cruncep_access_Qair_1913.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Qair_1913.nc
+  hashes:
+    binhash: 2208d8e1af5ebe4011b2ad2b509c285a
+    md5: 87cb7f0e16b816f200ea3237fabd9d53
+work/INPUT/cruncep_access_Qair_1914.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Qair_1914.nc
+  hashes:
+    binhash: f8065953ef7c43401b2677d1af85ee03
+    md5: e31745f5890327fa8da17d0f4ba5c2f6
+work/INPUT/cruncep_access_Qair_1915.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Qair_1915.nc
+  hashes:
+    binhash: a62779329f9357f6441f71f25be24e67
+    md5: 7666296a459731e923a88f4ac317f62c
+work/INPUT/cruncep_access_Qair_1916.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Qair_1916.nc
+  hashes:
+    binhash: f72302d2013d11b70ae2ca25b1fbf703
+    md5: 6eeda71380d34275771f5549e61b768d
+work/INPUT/cruncep_access_Qair_1917.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Qair_1917.nc
+  hashes:
+    binhash: 505da8d4c1c027ad1fcc0d52ff986e4d
+    md5: 059008116a488cc8ac268fa4d0aa4839
+work/INPUT/cruncep_access_Qair_1918.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Qair_1918.nc
+  hashes:
+    binhash: 3d1d261bb094df0f4aee1b14dbdb9f8a
+    md5: fe05475833c294bfe26409f47d375efa
+work/INPUT/cruncep_access_Qair_1919.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Qair_1919.nc
+  hashes:
+    binhash: f877abe6b1bbdf0c85e2a431e60ace84
+    md5: 86790a2fddca172f205f70e104ef847a
+work/INPUT/cruncep_access_Rainf_1901.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Rainf_1901.nc
+  hashes:
+    binhash: 01c160aa6c02977bc4103949e0485ac8
+    md5: c05155bab254f530632320743a9c42f4
+work/INPUT/cruncep_access_Rainf_1902.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Rainf_1902.nc
+  hashes:
+    binhash: bc3feb27d2e7bf8980580e24b406786b
+    md5: c3d976554d66932af2c97db011226539
+work/INPUT/cruncep_access_Rainf_1903.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Rainf_1903.nc
+  hashes:
+    binhash: 477b490b87527a43f955efb9375037c5
+    md5: 5f944d3a4325847a062649a842f6c7d3
+work/INPUT/cruncep_access_Rainf_1904.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Rainf_1904.nc
+  hashes:
+    binhash: a85557005092127cbc6c63674e31c106
+    md5: 1617fd284c5378368e6097219e269fd0
+work/INPUT/cruncep_access_Rainf_1905.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Rainf_1905.nc
+  hashes:
+    binhash: 38a7dacde10f2964ec76f47339655242
+    md5: c5060f5044dd7e349c00a35ca57e4b4f
+work/INPUT/cruncep_access_Rainf_1906.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Rainf_1906.nc
+  hashes:
+    binhash: 00c35541fc4d79921c7142ed670bdc0e
+    md5: 582d8da6c2f5202ed9b63aadf6ab9f4f
+work/INPUT/cruncep_access_Rainf_1907.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Rainf_1907.nc
+  hashes:
+    binhash: 7601ba390289d53b334a0cb887b4190f
+    md5: f5b1487ebc4145db615e101774dd3110
+work/INPUT/cruncep_access_Rainf_1908.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Rainf_1908.nc
+  hashes:
+    binhash: eab0e0e764a160b3855f6c975f0bb77e
+    md5: 50f8fd88fa787455692047598b9a3258
+work/INPUT/cruncep_access_Rainf_1909.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Rainf_1909.nc
+  hashes:
+    binhash: 4eb12b86cb95d254fed2ed4eb552b4ea
+    md5: 4da1ac456d49db27c039a305e4ac4ea2
+work/INPUT/cruncep_access_Rainf_1910.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Rainf_1910.nc
+  hashes:
+    binhash: 733f5b9b2d55e943507cc85ce9e394b3
+    md5: 66bad5e699c403caf330dd122ff27596
+work/INPUT/cruncep_access_Rainf_1911.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Rainf_1911.nc
+  hashes:
+    binhash: 11cb70b2a49ca6c7ec055c08b5f6e0fd
+    md5: 65d5a9ab787f59c288315c5a044cf8d6
+work/INPUT/cruncep_access_Rainf_1912.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Rainf_1912.nc
+  hashes:
+    binhash: 7201cedfa40a4edc159372b25baabfc3
+    md5: 7fbf8d126765826583477424e0feeb16
+work/INPUT/cruncep_access_Rainf_1913.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Rainf_1913.nc
+  hashes:
+    binhash: f02bba2a744474975163112ab26ee9f4
+    md5: 74beb8c26997ccfa9063ae1cd9d2a3af
+work/INPUT/cruncep_access_Rainf_1914.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Rainf_1914.nc
+  hashes:
+    binhash: ab0bddb319fa1f252e23b3cdaabfdaaa
+    md5: b1dd0ea2f40e54244f96a2b1ce975777
+work/INPUT/cruncep_access_Rainf_1915.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Rainf_1915.nc
+  hashes:
+    binhash: 7b8dc9412560660bb22a0d2c5ee8a232
+    md5: 838a9a1322bc4dbdbaeacd88dfc91df3
+work/INPUT/cruncep_access_Rainf_1916.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Rainf_1916.nc
+  hashes:
+    binhash: 635e6da382de300d6f3ccfb93619d1f1
+    md5: b97655c5b86b118b6283040d422d893f
+work/INPUT/cruncep_access_Rainf_1917.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Rainf_1917.nc
+  hashes:
+    binhash: a84aa9d9a38335270c6374d780138fe9
+    md5: b4d9aee214ee02d725e5404870b7970f
+work/INPUT/cruncep_access_Rainf_1918.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Rainf_1918.nc
+  hashes:
+    binhash: 79319d0be814cfa64ff0871359b52b00
+    md5: b6c349ca6a926a9e9517407c756c1bee
+work/INPUT/cruncep_access_Rainf_1919.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Rainf_1919.nc
+  hashes:
+    binhash: db8857ad939cfeaed1b2bac721268ed5
+    md5: 1ba671820a54d62d44e48a883535eddc
+work/INPUT/cruncep_access_SWdown_1901.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_SWdown_1901.nc
+  hashes:
+    binhash: bd6243cd16769dea6a42ad2d9111f6f9
+    md5: fa62eb9363f6ade9af0347cbad686025
+work/INPUT/cruncep_access_SWdown_1902.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_SWdown_1902.nc
+  hashes:
+    binhash: e3809d5924f1a30ac5bd7b791f181528
+    md5: 4d801fa8661cf1ebcb17101855ae1eba
+work/INPUT/cruncep_access_SWdown_1903.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_SWdown_1903.nc
+  hashes:
+    binhash: 33ca7177467a1d619fdf24b91d14674d
+    md5: 93fc72de98c0a8703a5fde85fd7bded3
+work/INPUT/cruncep_access_SWdown_1904.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_SWdown_1904.nc
+  hashes:
+    binhash: 4a4692ac4dc5abc799bde1e968aca59b
+    md5: 4decf725bf345870d7056449545c1288
+work/INPUT/cruncep_access_SWdown_1905.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_SWdown_1905.nc
+  hashes:
+    binhash: c28c7ad0d2df57bd61211433a9513dd6
+    md5: 67e0a3fe8d6bfc043cf0db7b5ea1069d
+work/INPUT/cruncep_access_SWdown_1906.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_SWdown_1906.nc
+  hashes:
+    binhash: 779efabde55ab17cfad0c8952fe9dc58
+    md5: 5f01af9c27c5abd31ac33f2974afdc9c
+work/INPUT/cruncep_access_SWdown_1907.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_SWdown_1907.nc
+  hashes:
+    binhash: 94d0c07f5695294692209d696e063a8e
+    md5: e10b6beb41c29a3e2a9037949948e48b
+work/INPUT/cruncep_access_SWdown_1908.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_SWdown_1908.nc
+  hashes:
+    binhash: 3fdc95a7edebce1547393c8f20f979b5
+    md5: 9c9c5359d7ffb46b047e42e8e5572ddb
+work/INPUT/cruncep_access_SWdown_1909.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_SWdown_1909.nc
+  hashes:
+    binhash: 5cf3ddb0708ffc0ea691523e28e1d2dc
+    md5: 0addcfd5c5484f69b736daf5736e6e8f
+work/INPUT/cruncep_access_SWdown_1910.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_SWdown_1910.nc
+  hashes:
+    binhash: 00300ec1b97d728f0bf7f5d7d000dcaf
+    md5: 9aec77c33bd62c210d4b902357cf23c1
+work/INPUT/cruncep_access_SWdown_1911.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_SWdown_1911.nc
+  hashes:
+    binhash: 5c3097b752937d7fedd876f39eba4217
+    md5: 13dee7986cec1b2cc0039f47375a2e83
+work/INPUT/cruncep_access_SWdown_1912.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_SWdown_1912.nc
+  hashes:
+    binhash: 46a642cb12e2270d9e4e9fb3afdaabdd
+    md5: 55ea3c66d8895b55b4e70dfa8b52cf21
+work/INPUT/cruncep_access_SWdown_1913.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_SWdown_1913.nc
+  hashes:
+    binhash: 21ad8e876ccf3ad1d54aec0f1a2a131e
+    md5: 342bb0b8d579a2aba712230ab403edc5
+work/INPUT/cruncep_access_SWdown_1914.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_SWdown_1914.nc
+  hashes:
+    binhash: 83cf0361e62e0d524f9d29494c1c01a3
+    md5: bbcd4bce1df8f5c9084d37c8bdb068a4
+work/INPUT/cruncep_access_SWdown_1915.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_SWdown_1915.nc
+  hashes:
+    binhash: 68f90c25d17111bfe2cc4e8b25ddd55d
+    md5: 9ba9c955ec7ed51bfbb54ecd93fea052
+work/INPUT/cruncep_access_SWdown_1916.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_SWdown_1916.nc
+  hashes:
+    binhash: 1e8ce299abb6f4f8b17fee00962fceef
+    md5: 438520ed3caf7492dbd10cd1d90e775e
+work/INPUT/cruncep_access_SWdown_1917.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_SWdown_1917.nc
+  hashes:
+    binhash: 58eb737c8be9f4190e4ca68eba44bfe6
+    md5: bdffa1210e10b33fd6c29d98a09d0c0e
+work/INPUT/cruncep_access_SWdown_1918.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_SWdown_1918.nc
+  hashes:
+    binhash: bdca4e5968c81585f3ead37370d605ca
+    md5: 9422525ce483327f2a39ace6c2ffb17f
+work/INPUT/cruncep_access_SWdown_1919.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_SWdown_1919.nc
+  hashes:
+    binhash: 4d9402f32ab54e5552e5e01a3b22da03
+    md5: ae59c7b07371c0b6d17f727ec93aa067
+work/INPUT/cruncep_access_Snowf_1901.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Snowf_1901.nc
+  hashes:
+    binhash: 9d49e91ce6605908eda7bed32a4ead9c
+    md5: 91ba487150068b804248c23a3fe501f5
+work/INPUT/cruncep_access_Snowf_1902.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Snowf_1902.nc
+  hashes:
+    binhash: 47456ba35b083e15eb9f18f7fd80961c
+    md5: 40b3d8e9da18227f038f646f80f5b836
+work/INPUT/cruncep_access_Snowf_1903.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Snowf_1903.nc
+  hashes:
+    binhash: b1c717eb34b731bcdc117f401af0aeee
+    md5: db5e8bd8fd7ba18ba5822c2661b15b10
+work/INPUT/cruncep_access_Snowf_1904.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Snowf_1904.nc
+  hashes:
+    binhash: ebfc4cd9010837358b324a713bfdaa43
+    md5: efa621536db660b4b8cbcbff8ee2af53
+work/INPUT/cruncep_access_Snowf_1905.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Snowf_1905.nc
+  hashes:
+    binhash: eac8c9e191fce18a3c511f22e0da3985
+    md5: 59667c951f1fe8f1c451610475d95920
+work/INPUT/cruncep_access_Snowf_1906.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Snowf_1906.nc
+  hashes:
+    binhash: ed2b40e78b997a30e3486d2ad826f73e
+    md5: 647add4e4e5ff34dd124e7ec3138d73e
+work/INPUT/cruncep_access_Snowf_1907.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Snowf_1907.nc
+  hashes:
+    binhash: e165d3f682619e466927c6b792d21b64
+    md5: 196c167db78dab1ab8af45aabc9cd009
+work/INPUT/cruncep_access_Snowf_1908.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Snowf_1908.nc
+  hashes:
+    binhash: a331c9643ca2f683f3843b9d44dd6c31
+    md5: 0a59f5346189378e45dce9588ff4875d
+work/INPUT/cruncep_access_Snowf_1909.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Snowf_1909.nc
+  hashes:
+    binhash: ff0c4ecb6dcb877e75a0e6502400a09b
+    md5: 4c645166ebbacb8437f88833f7b75ba3
+work/INPUT/cruncep_access_Snowf_1910.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Snowf_1910.nc
+  hashes:
+    binhash: d840b90164358bec8de2d0b42c49c6a0
+    md5: 1777db8e458ed825a4fb19a4ad062e2e
+work/INPUT/cruncep_access_Snowf_1911.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Snowf_1911.nc
+  hashes:
+    binhash: 8d4cfeb41e6371d47f2d55707eb979df
+    md5: b20f753114f5c41badd963b4660c1cea
+work/INPUT/cruncep_access_Snowf_1912.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Snowf_1912.nc
+  hashes:
+    binhash: 873e71517687f5833b4aa169728a9b4f
+    md5: 9aa4ac8756e07b68013cb3d23ed18e1c
+work/INPUT/cruncep_access_Snowf_1913.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Snowf_1913.nc
+  hashes:
+    binhash: 1caa7bbd269468f24972150300ace856
+    md5: 83fa362735178be7add77bf397e4c833
+work/INPUT/cruncep_access_Snowf_1914.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Snowf_1914.nc
+  hashes:
+    binhash: 70fef9130ac59ba74eea0ecc13584f8f
+    md5: da48f78fcdabc67760469cb76b729f11
+work/INPUT/cruncep_access_Snowf_1915.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Snowf_1915.nc
+  hashes:
+    binhash: 9b351065bd57169a3c9d1496de981c55
+    md5: 54009926aea802e38e0aec0ebc9e809e
+work/INPUT/cruncep_access_Snowf_1916.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Snowf_1916.nc
+  hashes:
+    binhash: 4afe8a7efc42e2ce787bdb59bd116633
+    md5: 6518dedea4c4292b0bf7a8b4c66a8f5d
+work/INPUT/cruncep_access_Snowf_1917.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Snowf_1917.nc
+  hashes:
+    binhash: 8a6929a9012c8f76cf65d882154c483d
+    md5: 92ceeee82fb8f301635012a302f4fc61
+work/INPUT/cruncep_access_Snowf_1918.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Snowf_1918.nc
+  hashes:
+    binhash: bbf789bb6b882338757e25173dbf0b45
+    md5: a8e614c1de1b6a0af514bd31e87a26cd
+work/INPUT/cruncep_access_Snowf_1919.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Snowf_1919.nc
+  hashes:
+    binhash: 0406642d57cfc8adf865d3b70188a783
+    md5: 901372a9b93df31b9dbf57230d03839d
+work/INPUT/cruncep_access_Tair_1901.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Tair_1901.nc
+  hashes:
+    binhash: 61eaa2100fcbf2d8de056022d5082ab5
+    md5: 91872e7f11a287a2a7d5a1357e057bd5
+work/INPUT/cruncep_access_Tair_1902.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Tair_1902.nc
+  hashes:
+    binhash: fe0dd791eb581cdf11c14ad059d20bb4
+    md5: 5c04a8472d90dfb2b546ae59972782a0
+work/INPUT/cruncep_access_Tair_1903.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Tair_1903.nc
+  hashes:
+    binhash: 7e6a4f56c0156b1f3b8be86c9dd8521c
+    md5: 69dd41f5a3815fdfecbd8a6b8c9ca049
+work/INPUT/cruncep_access_Tair_1904.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Tair_1904.nc
+  hashes:
+    binhash: b165d34b3c7a308ecb83471e36dbe278
+    md5: 3c74d98ab9cad95b2c7197e54b42b60c
+work/INPUT/cruncep_access_Tair_1905.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Tair_1905.nc
+  hashes:
+    binhash: 40dc536c51715f9eaecb477c0f2a7037
+    md5: 022efac27f3fbb78676518ea599e5285
+work/INPUT/cruncep_access_Tair_1906.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Tair_1906.nc
+  hashes:
+    binhash: 5f504c1e553ba5989805654e5a8649b1
+    md5: 2a66e5ba75e4a89079a5c156ec2f7696
+work/INPUT/cruncep_access_Tair_1907.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Tair_1907.nc
+  hashes:
+    binhash: a7bfead0a9223606306e5fab91f97dba
+    md5: afd9cb91f111bf5da093066d7e04fa4d
+work/INPUT/cruncep_access_Tair_1908.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Tair_1908.nc
+  hashes:
+    binhash: 2d02708172a8a46182842b129fb599c5
+    md5: 16c5f735f8305d020ef05c1324857fd9
+work/INPUT/cruncep_access_Tair_1909.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Tair_1909.nc
+  hashes:
+    binhash: 568e607504803ead666c5afc4822ef87
+    md5: 8ea098f03dbe9e7779d7449076d84366
+work/INPUT/cruncep_access_Tair_1910.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Tair_1910.nc
+  hashes:
+    binhash: fbb1e28ad8d57c1c61dd24e713a130fb
+    md5: cb27bfa54898909ffbb9ccf37fa8c742
+work/INPUT/cruncep_access_Tair_1911.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Tair_1911.nc
+  hashes:
+    binhash: 363cba301e61e5ab81dc43a20d2e5610
+    md5: 65e6d38e4ffa2b9420d6c7feeb4d68b0
+work/INPUT/cruncep_access_Tair_1912.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Tair_1912.nc
+  hashes:
+    binhash: 6122fbfc4421ee7d9f3d298dd415cc62
+    md5: 1d6bc2ddabaee4d3e98bc5287adb87a1
+work/INPUT/cruncep_access_Tair_1913.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Tair_1913.nc
+  hashes:
+    binhash: f74897dab625ee9212ff8e4f556193c9
+    md5: 0c93e1e6d88bb70d2445ca10fc9c20bd
+work/INPUT/cruncep_access_Tair_1914.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Tair_1914.nc
+  hashes:
+    binhash: 213954c3780c3e092c31761c6678571d
+    md5: d8e681ceef5547b64e70f89e54e1533d
+work/INPUT/cruncep_access_Tair_1915.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Tair_1915.nc
+  hashes:
+    binhash: 5957a8f0f02e939ea801204e94385d66
+    md5: 604936102ca0609b01edc2e7c8bde709
+work/INPUT/cruncep_access_Tair_1916.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Tair_1916.nc
+  hashes:
+    binhash: 2ad21633f4fd14e2550d33a03e8cea6e
+    md5: 0b0fc68fff82683c2a36822dfd3442b1
+work/INPUT/cruncep_access_Tair_1917.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Tair_1917.nc
+  hashes:
+    binhash: 628c59717a7393dce9ca54d47c964478
+    md5: a778f88a5d5a9b59fb7ac97d63387c22
+work/INPUT/cruncep_access_Tair_1918.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Tair_1918.nc
+  hashes:
+    binhash: d22b6882ff3881f1197e09d00e8aaf84
+    md5: 89bb13f8685c9353425f51457acd167d
+work/INPUT/cruncep_access_Tair_1919.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Tair_1919.nc
+  hashes:
+    binhash: a129f5465028eeb76d5f8724f10e565b
+    md5: 307fa4bca8a37848f774247153fcf372
+work/INPUT/cruncep_access_Wind_1901.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Wind_1901.nc
+  hashes:
+    binhash: 8567f19c2594721b282a4ca03d1beb0d
+    md5: d5673cd190d6f0cbf458ab8ef702299d
+work/INPUT/cruncep_access_Wind_1902.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Wind_1902.nc
+  hashes:
+    binhash: ab2501a7eaac810dc13f3eae1aa3c791
+    md5: de3b2dc50b257e7eddd59f85b420b5b9
+work/INPUT/cruncep_access_Wind_1903.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Wind_1903.nc
+  hashes:
+    binhash: ce88d1899f6348c49455483657748847
+    md5: 69ddd68d44ece1e8bc2a97f0bb8e91cd
+work/INPUT/cruncep_access_Wind_1904.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Wind_1904.nc
+  hashes:
+    binhash: 4704e993e40d1c9a5f19f4d2ad2e40de
+    md5: 590ac498d45d51086593c354f50f4c18
+work/INPUT/cruncep_access_Wind_1905.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Wind_1905.nc
+  hashes:
+    binhash: 1ee4b8661e8dac48e4081f9ca54a25f7
+    md5: 90736704497ba0dc44d9a0e51df56e9b
+work/INPUT/cruncep_access_Wind_1906.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Wind_1906.nc
+  hashes:
+    binhash: 5e1903659b958288eb98727dc8e6dc9c
+    md5: f30c298e204c6f5168f9ed5708584a3c
+work/INPUT/cruncep_access_Wind_1907.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Wind_1907.nc
+  hashes:
+    binhash: 4ee8099d78736d22674843dabd3f11ed
+    md5: d5a7ef59a95d546771ed2eab6050a592
+work/INPUT/cruncep_access_Wind_1908.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Wind_1908.nc
+  hashes:
+    binhash: 7bb3e6168d226d6006d1eaa2bacd893c
+    md5: 0416d5758a0afda4754ade13e60b88c9
+work/INPUT/cruncep_access_Wind_1909.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Wind_1909.nc
+  hashes:
+    binhash: d2f85bf98ffb6e12a896cde6d38ff962
+    md5: 4769eb964828957f44d3517ec882c83d
+work/INPUT/cruncep_access_Wind_1910.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Wind_1910.nc
+  hashes:
+    binhash: 30882b9374b93e35779c91d43f1dd45e
+    md5: 2f3c9672d76eb4182fae67c900a067aa
+work/INPUT/cruncep_access_Wind_1911.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Wind_1911.nc
+  hashes:
+    binhash: 557364d5352434cf9c506bf76dab718b
+    md5: 6841f29cece7e1bb87c552f883a6df02
+work/INPUT/cruncep_access_Wind_1912.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Wind_1912.nc
+  hashes:
+    binhash: 27040d454dba7ffafc75d4f79f06acf3
+    md5: 599153c4e93e74d02bb7dbb99d675a73
+work/INPUT/cruncep_access_Wind_1913.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Wind_1913.nc
+  hashes:
+    binhash: c5718722007c47078802f1d5ac058cc9
+    md5: 8d6c87f226dd9538ce26fb58c3af4be7
+work/INPUT/cruncep_access_Wind_1914.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Wind_1914.nc
+  hashes:
+    binhash: bfc5cc6ececa1016cacd3dd85b8c0f76
+    md5: 247a645dc1e46b19d28df99117454423
+work/INPUT/cruncep_access_Wind_1915.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Wind_1915.nc
+  hashes:
+    binhash: 230ea63f2ad1b201a49103259b1e8d8b
+    md5: 3e699e1197bc2ccccd864459540da2b4
+work/INPUT/cruncep_access_Wind_1916.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Wind_1916.nc
+  hashes:
+    binhash: fcec2d55573360f76075364211ea3a3b
+    md5: fd20927175ed53c5585f3a25adcf5c82
+work/INPUT/cruncep_access_Wind_1917.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Wind_1917.nc
+  hashes:
+    binhash: a681dfacf6826681830ad99a5686dead
+    md5: 58d964b3d54b868aa250e1f87cda2158
+work/INPUT/cruncep_access_Wind_1918.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Wind_1918.nc
+  hashes:
+    binhash: a4ff60557906f5693097b172d00c49c5
+    md5: 693efc6b6c81628a5bd30fd0f1380c77
+work/INPUT/cruncep_access_Wind_1919.nc:
+  fullpath: /scratch/p66/yxw599/runcable-access-esm/gswp/system3/cruncep_access_Wind_1919.nc
+  hashes:
+    binhash: f1f964533c41641370ed4b1b7c8b47ba
+    md5: beb5a3ac21fb79d8e0dcdb93b50d244b
+work/INPUT/def_soil_params.txt:
+  fullpath: inputs/def_soil_params.txt
+  hashes:
+    binhash: 8d14bb4116c66bb7df4e28e7abe1f4df
+    md5: 77754f99dfeac5c389e81b9908ffea7c
+work/INPUT/def_veg_params_zr_clitt_albedo_fix.txt:
+  fullpath: inputs/def_veg_params_zr_clitt_albedo_fix.txt
+  hashes:
+    binhash: df5fa2dfa03ef5c0f3457b8d16a7b8b8
+    md5: 774b9f4b1c44a251cdb403d7596de280
+work/INPUT/gridinfo-access-esm.nc:
+  fullpath: inputs/gridinfo-access-esm.nc
+  hashes:
+    binhash: e97e61cb9d025001371d87715fa506ef
+    md5: 12e7eab52b0e758d6d8b683090166308
+work/INPUT/landsea-access-esm.nc:
+  fullpath: inputs/landsea-access-esm.nc
+  hashes:
+    binhash: be26263254dc07175dc8d0d446cd3fe8
+    md5: b62ae264048e0ec1c47104d58a6aebac
+work/INPUT/modis_phenology_csiro.txt:
+  fullpath: inputs/modis_phenology_csiro.txt
+  hashes:
+    binhash: 7078d86755a4f11431570f349b4c04e5
+    md5: 1ee9402ddc4f266b27db22f3549967bb
+work/INPUT/pftlookup_csiro_v16_17tiles_Ticket2.csv:
+  fullpath: inputs/pftlookup_csiro_v16_17tiles_Ticket2.csv
+  hashes:
+    binhash: 80c03873025149c3ae36dfc7d812571e
+    md5: cc2ac7bcd8155754cc7f88c478230c9d
+work/INPUT/poolcnp_in.nc:
+  fullpath: inputs/poolcnp_in.nc
+  hashes:
+    binhash: 8646689337ca454924c43589d34191ed
+    md5: 7f2b867ce8bda2f4ae2d627224b97e6a
+work/INPUT/poolcnp_out.nc:
+  fullpath: inputs/poolcnp_out.nc
+  hashes:
+    binhash: 146bd4f3834d4c23abb0c6ec209d8f39
+    md5: 1a9ce3a7e9c89b752be7157718c33be1
+work/INPUT/restart_in.nc:
+  fullpath: inputs/restart_in.nc
+  hashes:
+    binhash: e41b190d05c037e74486eb51451b97dd
+    md5: f64636dcdaa7c791e938eb452a7ce90d
