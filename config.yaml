@@ -22,3 +22,5 @@ runspersub: 2
 
 restart: inputs
 
+# Required option! Ensure the same run is repeated everytime the benchmark is done
+repeat: True
