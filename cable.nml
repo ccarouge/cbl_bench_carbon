@@ -20,7 +20,7 @@
    output%radiation = .TRUE.  ! net rad, albedo
    output%carbon = .TRUE.  ! NEE, GPP, NPP, stores
    output%veg = .TRUE.  ! vegetation states
-   output%patch = .TRUE.  ! patch              
+   output%patch = .FALSE.  ! patch              
    output%patchfrac = .TRUE.  ! patchfrac output  
    output%params = .TRUE.  ! input parameters used to produce run
    output%balances = .TRUE.  ! energy and water balances
