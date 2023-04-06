@@ -2,7 +2,7 @@
 ## Namelists
 Namelist files should follow the naming format: cable_YYYY_<whatyouwant>.nml
 
-YYYY is the year with 4 digits. Make sure to separate the first fields with "_". Make sure to start with "cable_". Make sure to finish with ".nml"
+YYYY is the year with 4 digits. Make sure to separate the first fields with "\_". Make sure to start with "cable_". Make sure to finish with ".nml"
 
 ## Restart files
 Make sure the namelists' input restarts are named "restart_in.nc"
